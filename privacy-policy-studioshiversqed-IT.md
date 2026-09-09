@@ -144,7 +144,7 @@ Ci riserviamo il diritto di aggiornare questa informativa in qualsiasi momento. 
 Per qualsiasi domanda relativa a questa informativa o al trattamento dei Suoi dati:
 
 **Email:** [privacy@studioshiversqed.com]
-**Indirizzo:** [Indirizzo completo], Gubbio, Umbria, Italia
+**Indirizzo:** via dell'Assino 210, 06024 Gubbio PG, Umbria, Italia
 
 ---
 
