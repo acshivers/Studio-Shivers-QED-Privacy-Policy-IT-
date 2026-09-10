@@ -101,7 +101,7 @@ Ai sensi degli Artt. 15-22 del GDPR, Lei ha diritto di:
 - **Opposizione**: opporsi al trattamento per finalità di marketing diretto o legittimo interesse
 - **Revoca del consenso**: in qualsiasi momento, senza pregiudicare la liceità del trattamento precedente
 
-Per esercitare questi diritti, può scrivere a: [email dedicata privacy]
+Per esercitare questi diritti, può scrivere a: privacy@studioshiversqed.com
 
 Ha inoltre diritto di proporre reclamo all'Autorità Garante per la Protezione dei Dati Personali (www.garanteprivacy.it) qualora ritenga che il trattamento violi la normativa vigente.
 
