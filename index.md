@@ -7,7 +7,7 @@ Studio Shivers QED is a data analysis and business intelligence consultancy root
 
 # 🇮🇹 Italiano
 
-## Leggi l'Informativa sulla Privacy in Italiano →[here](https://github.com/acshivers/Studio-Shivers-QED-Privacy-Policy-IT-/blob/docs/privacy-policy-studioshiversqed-IT.md)
+## Leggi l'Informativa sulla Privacy in Italiano →[here](https://github.com/acshivers/Studio-Shivers-QED-Privacy-Policy-IT-/blob/5a20a16e099594bb8e7969f5726948b5d193bda0/privacy-policy-studioshiversqed-IT.md)
 
 Studio Shivers QED è una consulenza di analisi dati e business intelligence radicata in Umbria, senza confini. Aiutiamo aziende locali e globali a scoprire opportunità nascoste nei propri dati, trasformando i numeri in strategie chiare e concrete.
 
