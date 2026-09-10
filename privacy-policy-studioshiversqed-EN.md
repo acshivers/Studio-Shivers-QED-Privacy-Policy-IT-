@@ -144,7 +144,7 @@ We reserve the right to update this policy at any time. Changes will be publishe
 For any questions regarding this policy or the processing of your personal data:
 
 **Email:** [privacy@studioshiversqed.com]
-**Address:** vai dell'Assino 210, 06024 Gubbio PG, Italy
+**Address:** vai dell'Assino 210, 06024 Gubbio PG, Umbria, Italy
 
 ---
 
