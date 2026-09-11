@@ -24,9 +24,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # QUESTO È IL PASSO SEGRETO: Inietta il CNAME al volo senza salvarlo nel codice pubblico
+      # Crea il file CNAME in modo sicuro e pulito ad ogni pubblicazione
       - name: Inject CNAME
-       run: echo '://studioshiversqed.com' > ./CNAME
+        run: echo '://studioshiversqed.com' > ./CNAME
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
