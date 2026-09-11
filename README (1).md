@@ -13,7 +13,7 @@ Studio Shivers QED è una consulenza di analisi dati e business intelligence rad
 
 ---
 
-## ❓ Domande Frequenti (FAQ) – Risposte Rapide per le PMI - Read the complete FAQ → []()
+## ❓ Domande Frequenti (FAQ) – Risposte Rapide per le PMI - Read the complete FAQ → [here](https://github.com/acshivers/Studio-Shivers-QED-Privacy-Policy-IT-/blob/db68d761ddc3ff69577e00fc818330a7b5f842de/faq.md)
 
 ### 1. Che differenza c'è tra Data Engineering e Data Analysis?
 Il **Data Engineering** si occupa delle "tubature": raccoglie, pulisce e collega i tuoi dati da diverse fonti in un unico database sicuro. La **Data Analysis** prende questi dati puliti e li trasforma in grafici, dashboard e report visivi per aiutarti a prendere decisioni strategiche.
