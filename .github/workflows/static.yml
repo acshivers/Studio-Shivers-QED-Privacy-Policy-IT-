@@ -26,7 +26,7 @@ jobs:
 
       # QUESTO È IL PASSO SEGRETO: Inietta il CNAME al volo senza salvarlo nel codice pubblico
       - name: Inject CNAME
-        run: echo "://studioshiversqed.com" > ./CNAME
+        run: echo "privacy.studioshiversqed.com" > ./CNAME
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
