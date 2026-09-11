@@ -21,3 +21,4 @@ Studio Shivers QED is a data analysis and  intelligence consultancy rooted in Um
 privacy@studioshiversqed.com 
 ### Website / Sito web: 
 www.studioshiversqed.com
+### Company Registration Report → []()
