@@ -1,4 +1,4 @@
-# Informativa sulla Privacy
+# Informativa sulla Privacy  [Read in English 🇬🇧](privacy-policy-studioshiversqed-EN.html)
 ## Studio Shivers QED
 
 *Ai sensi del Regolamento (UE) 2016/679 (GDPR) e del D.Lgs. 196/2003 (Codice Privacy), come modificato dal D.Lgs. 101/2018*
