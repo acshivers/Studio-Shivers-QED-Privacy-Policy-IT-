@@ -24,9 +24,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Crea il file CNAME in modo sicuro e pulito ad ogni pubblicazione
+      # CORRETTO: Inietta il sottodominio esatto senza simboli strani
       - name: Inject CNAME
-        run: echo '://studioshiversqed.com' > ./CNAME
+        run: echo 'privacy.studioshiversqed.com' > ./CNAME
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
