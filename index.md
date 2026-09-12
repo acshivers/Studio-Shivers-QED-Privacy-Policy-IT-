@@ -3,7 +3,7 @@
 
 *Ai sensi del Regolamento (UE) 2016/679 (GDPR) e del D.Lgs. 196/2003 (Codice Privacy), come modificato dal D.Lgs. 101/2018*
 
-**Ultimo aggiornamento:** [Data]
+**Ultimo aggiornamento:** 12 Settembre 2026
 
 ---
 
