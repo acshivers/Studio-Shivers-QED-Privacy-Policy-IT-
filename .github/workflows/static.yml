@@ -26,7 +26,7 @@ jobs:
 
       # CORRETTO: Inietta il sottodominio esatto senza simboli strani
       - name: Inject CNAME
-        run: echo 'privacy.studioshiversqed.com' > ./CNAME
+        run: echo 'privacy.studioshiversqed.com' > ./docs/CNAME
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
