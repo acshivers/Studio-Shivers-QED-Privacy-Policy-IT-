@@ -3,7 +3,7 @@
 
 *In accordance with Regulation (EU) 2016/679 (GDPR)*
 
-**Last updated:** [Date]
+**Last updated:** 12 September 2026
 
 ---
 
